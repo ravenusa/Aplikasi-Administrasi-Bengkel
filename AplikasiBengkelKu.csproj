@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{65192371-BC3A-46D1-96FF-9FCA17A6D7F9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AplikasiBengkelKu</RootNamespace>
+    <AssemblyName>AplikasiBengkelKu</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\AddLoginController.cs" />
+    <Compile Include="Controller\AddSparepartController.cs" />
+    <Compile Include="Controller\LaporanContoller.cs" />
+    <Compile Include="Controller\LoginController.cs" />
+    <Compile Include="Controller\PelangganController.cs" />
+    <Compile Include="Controller\PembelianController.cs" />
+    <Compile Include="Controller\PenjualanController.cs" />
+    <Compile Include="Controller\SparepartController.cs" />
+    <Compile Include="Controller\SupplierController.cs" />
+    <Compile Include="Model\Entity\AddSparepart.cs" />
+    <Compile Include="Model\Entity\AddUserLogin.cs" />
+    <Compile Include="Model\Entity\Full_Laporan.cs" />
+    <Compile Include="Model\Entity\Pelanggan.cs" />
+    <Compile Include="Model\Entity\Pembelian.cs" />
+    <Compile Include="Model\Entity\Penjualan.cs" />
+    <Compile Include="Model\Entity\Sparepart.cs" />
+    <Compile Include="Model\Entity\Supplier.cs" />
+    <Compile Include="Model\Repository\AddLoginRepository.cs" />
+    <Compile Include="Model\Repository\AddSparepartRepository.cs" />
+    <Compile Include="Model\Repository\LaporanRepository.cs" />
+    <Compile Include="Model\Repository\PelangganRepository.cs" />
+    <Compile Include="Model\Repository\PembelianRepository.cs" />
+    <Compile Include="Model\Repository\PenjualanRepository.cs" />
+    <Compile Include="Model\Repository\SparepartRepository.cs" />
+    <Compile Include="Model\Repository\SupplierRepository.cs" />
+    <Compile Include="View\FrmAddLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmAddLogin.Designer.cs">
+      <DependentUpon>FrmAddLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmAddSparepart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmAddSparepart.Designer.cs">
+      <DependentUpon>FrmAddSparepart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmLaporan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmLaporan.Designer.cs">
+      <DependentUpon>FrmLaporan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmLoginn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmLoginn.Designer.cs">
+      <DependentUpon>FrmLoginn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmPelanggan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmPelanggan.Designer.cs">
+      <DependentUpon>FrmPelanggan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmPembelian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmPembelian.Designer.cs">
+      <DependentUpon>FrmPembelian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmPenjualan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmPenjualan.Designer.cs">
+      <DependentUpon>FrmPenjualan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmReff .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmReff .Designer.cs">
+      <DependentUpon>FrmReff .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Context\DbContext.cs" />
+    <Compile Include="Model\Entity\Login.cs" />
+    <Compile Include="Model\Repository\LoginRepository.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\FrmSparepart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmSparepart.Designer.cs">
+      <DependentUpon>FrmSparepart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmSupplier.Designer.cs">
+      <DependentUpon>FrmSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmUpdateSparepart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmUpdateSparepart.Designer.cs">
+      <DependentUpon>FrmUpdateSparepart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmUtama.Designer.cs">
+      <DependentUpon>FrmUtama.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\FrmAddLogin.resx">
+      <DependentUpon>FrmAddLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmAddSparepart.resx">
+      <DependentUpon>FrmAddSparepart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmLaporan.resx">
+      <DependentUpon>FrmLaporan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmLoginn.resx">
+      <DependentUpon>FrmLoginn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmPelanggan.resx">
+      <DependentUpon>FrmPelanggan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmPembelian.resx">
+      <DependentUpon>FrmPembelian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmPenjualan.resx">
+      <DependentUpon>FrmPenjualan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmReff .resx">
+      <DependentUpon>FrmReff .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View\FrmSparepart.resx">
+      <DependentUpon>FrmSparepart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmSupplier.resx">
+      <DependentUpon>FrmSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmUpdateSparepart.resx">
+      <DependentUpon>FrmUpdateSparepart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmUtama.resx">
+      <DependentUpon>FrmUtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="View\App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
