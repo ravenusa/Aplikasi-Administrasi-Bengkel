@@ -1,0 +1,185 @@
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe.config
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csprojAssemblyReference.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.Properties.Resources.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.GenerateResource.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.CoreCompileInputs.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLoginn.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddLogin.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmReff.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPembelian.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPenjualan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.Pelanggan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.Supplier.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUpdateSparepart.resources
+F:\New folder\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe.config
+F:\New folder\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe
+F:\New folder\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.pdb
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.AssemblyReference.cache
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddLogin.resources
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddSparepart.resources
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLoginn.resources
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPembelian.resources
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPenjualan.resources
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmReff.resources
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.Properties.Resources.resources
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSparepart.resources
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUpdateSparepart.resources
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.GenerateResource.cache
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.CoreCompileInputs.cache
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.exe
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.pdb
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSupplier.resources
+F:\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPelanggan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe.config
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csprojAssemblyReference.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddLogin.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLoginn.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPelanggan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPembelian.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPenjualan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmReff.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.Properties.Resources.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSupplier.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUpdateSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.GenerateResource.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.CoreCompileInputs.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUtama.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLaporan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe.config
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csprojAssemblyReference.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddLogin.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLaporan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLoginn.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPelanggan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPembelian.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPenjualan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmReff.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.Properties.Resources.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSupplier.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUpdateSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUtama.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.GenerateResource.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.CoreCompileInputs.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\New folder\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe.config
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csprojAssemblyReference.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddLogin.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLaporan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLoginn.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPelanggan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPembelian.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPenjualan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmReff.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.Properties.Resources.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSupplier.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUpdateSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUtama.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.GenerateResource.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.CoreCompileInputs.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe.config
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csprojAssemblyReference.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddLogin.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLaporan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLoginn.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPelanggan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPembelian.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPenjualan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmReff.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.Properties.Resources.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSupplier.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUpdateSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUtama.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.GenerateResource.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.CoreCompileInputs.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\AplikasiBengkelKuu - Copy\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe.config
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csprojAssemblyReference.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddLogin.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLaporan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLoginn.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPelanggan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPembelian.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPenjualan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmReff.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.Properties.Resources.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSupplier.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUpdateSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUtama.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.GenerateResource.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.CoreCompileInputs.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\FIXS\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe.config
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csprojAssemblyReference.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddLogin.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLaporan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLoginn.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPelanggan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPembelian.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPenjualan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmReff.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.Properties.Resources.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSupplier.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUpdateSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUtama.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.GenerateResource.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.CoreCompileInputs.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe.config
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\bin\Debug\AplikasiBengkelKu.pdb
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.AssemblyReference.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddLogin.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmAddSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLaporan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmLoginn.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPelanggan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPembelian.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmPenjualan.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmReff.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.Properties.Resources.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmSupplier.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUpdateSparepart.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.View.FrmUtama.resources
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.GenerateResource.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.csproj.CoreCompileInputs.cache
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.exe
+G:\SEMESTER 3\Pemro Lanjut\Fp\FIXS\[FIXS]\[FIXS]AplikasiBengkelKu(ORI)\[FIXS]AplikasiBengkelKu\AplikasiBengkelKu\obj\Debug\AplikasiBengkelKu.pdb
